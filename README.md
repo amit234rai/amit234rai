@@ -2,7 +2,7 @@
 
 # Hi, I'm Amit Rai
 
-**Full-Stack Developer · MERN & REST APIs**
+**Software Development Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel&logoColor=5eead4)](https://portfolio-website-phi-orcin-89.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=5eead4)](https://www.linkedin.com/in/amit-rai-ucs1677)
@@ -14,24 +14,26 @@
 
 ### About
 
-B.Tech in Computer Science (NSUT, 2021–2025). I build backend systems with
-Node.js, Express and MongoDB, and pair them with clean, responsive React
-frontends. Comfortable across the stack, with C++ and core CS fundamentals
-underneath.
+B.Tech in Computer Science (NSUT, 2021–2025), with a strong foundation in
+data structures, algorithms and object-oriented design. I enjoy solving
+problems end to end — from system design and backend architecture to the
+interfaces users actually touch.
 
-Currently open to full-stack / backend engineering opportunities.
+I've worked across the stack: REST APIs and databases on the backend,
+React on the frontend, and C++ for lower-level, performance-minded work.
+
+Currently open to Software Development Engineer (SDE) roles.
 
 ---
 
 ### Tech Stack
 
-**Frontend**
+**Languages & Core CS**
 
-![HTML5](https://img.shields.io/badge/HTML5-0b1220?style=flat-square&logo=html5&logoColor=5eead4)
-![CSS3](https://img.shields.io/badge/CSS3-0b1220?style=flat-square&logo=css3&logoColor=5eead4)
+![Python](https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=5eead4)
+![C++](https://img.shields.io/badge/C%2B%2B-0b1220?style=flat-square&logo=cplusplus&logoColor=5eead4)
+![C](https://img.shields.io/badge/C-0b1220?style=flat-square&logo=c&logoColor=5eead4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript&logoColor=5eead4)
-![React](https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=5eead4)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0b1220?style=flat-square&logo=tailwindcss&logoColor=5eead4)
 
 **Backend & Databases**
 
@@ -40,11 +42,12 @@ Currently open to full-stack / backend engineering opportunities.
 ![MongoDB](https://img.shields.io/badge/MongoDB-0b1220?style=flat-square&logo=mongodb&logoColor=5eead4)
 ![SQL](https://img.shields.io/badge/SQL-0b1220?style=flat-square&logo=postgresql&logoColor=5eead4)
 
-**Languages & Core CS**
+**Frontend**
 
-![Python](https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=5eead4)
-![C++](https://img.shields.io/badge/C%2B%2B-0b1220?style=flat-square&logo=cplusplus&logoColor=5eead4)
-![C](https://img.shields.io/badge/C-0b1220?style=flat-square&logo=c&logoColor=5eead4)
+![HTML5](https://img.shields.io/badge/HTML5-0b1220?style=flat-square&logo=html5&logoColor=5eead4)
+![CSS3](https://img.shields.io/badge/CSS3-0b1220?style=flat-square&logo=css3&logoColor=5eead4)
+![React](https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=5eead4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0b1220?style=flat-square&logo=tailwindcss&logoColor=5eead4)
 
 **Tools**
 
