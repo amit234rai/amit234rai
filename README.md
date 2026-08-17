@@ -74,17 +74,6 @@ binary-file storage.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amit234rai&show_icons=true&hide_border=true&bg_color=0b1220&title_color=5eead4&text_color=e7ecf5&icon_color=5eead4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit234rai&layout=compact&hide_border=true&bg_color=0b1220&title_color=5eead4&text_color=e7ecf5" />
-
-</div>
-
----
-
 <div align="center">
 
 **[Portfolio](https://portfolio-website-phi-orcin-89.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/amit-rai-ucs1677) · [Email](mailto:amitadityakumar454@gmail.com)**
